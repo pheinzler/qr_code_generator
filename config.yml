@@ -1,0 +1,3 @@
+config:
+  data: "dieser String soll in einen QR Code verwandelt werden"
+  filename: "dateiname"
