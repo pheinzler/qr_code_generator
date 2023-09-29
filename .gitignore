@@ -2,3 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+#generated codes
+qr_codes/
